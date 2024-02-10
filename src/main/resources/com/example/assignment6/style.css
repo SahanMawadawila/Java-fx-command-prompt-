@@ -1,0 +1,23 @@
+#closeBtn{
+    -fx-background-color: red;
+
+}
+#runButton{
+    -fx-background-color: blue;
+    -fx-cursor: hand;
+}
+#runButton:hover{
+    -fx-background-color: red;
+}
+#backgroundBox{
+    -fx-background-color: #f0f8ff;
+    -fx-border-color: blue;
+    -fx-border-width: 4px;
+}
+.button{
+    -fx-cursor: hand;
+}
+#label1{
+    -fx-background-color: white;
+    -fx-weight: bold;
+}
